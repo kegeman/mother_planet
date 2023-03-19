@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Local
+/.vs
+/x64/*
+/charlie_aux/x64/*
+/charlie_frame/x64/*

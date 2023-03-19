@@ -1,2 +1,2 @@
-# mother_planet
+# Mother Planet
 The real three dimensions space opera game.
